@@ -6,7 +6,7 @@
 	<artifactId>boot-fileupload</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>boot-helloworld</name>
+	<name>net.jgp.labs.spring.boot.fileupload</name>
 	<description>Add project description here</description>
 
 	<parent>

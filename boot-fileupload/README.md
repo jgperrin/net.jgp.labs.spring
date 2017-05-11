@@ -1,3 +1,3 @@
-#  boot-helloworld
+#  boot-fileupload
 
 Add instructions for project developers here.

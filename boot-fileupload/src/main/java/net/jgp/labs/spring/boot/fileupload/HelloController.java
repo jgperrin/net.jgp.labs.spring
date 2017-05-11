@@ -1,4 +1,4 @@
-package net.jgp.labs.spring.boot.helloworld;
+package net.jgp.labs.spring.boot.fileupload;
 
 import org.springframework.boot.*;
 import org.springframework.boot.autoconfigure.*;
